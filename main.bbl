@@ -19,170 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{smith2020biological}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{hash=440408ac5fb70ad6f9eae5ef0ee839fb}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Emily},
-           giveni={E\bibinitperiod}}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{hash=440408ac5fb70ad6f9eae5ef0ee839fb}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Emily},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Historical Engineering Society}%
-      }
-      \strng{namehash}{2d05b2cf738af6ea5fe08887b681d257}
-      \strng{fullhash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{fullhashraw}{39c4f1573265ba378056e4cac1f34625}
-      \strng{bibnamehash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{authorbibnamehash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{authornamehash}{2d05b2cf738af6ea5fe08887b681d257}
-      \strng{authorfullhash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{authorfullhashraw}{39c4f1573265ba378056e4cac1f34625}
-      \strng{nameabibnamehash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{nameanamehash}{2d05b2cf738af6ea5fe08887b681d257}
-      \strng{nameafullhash}{39c4f1573265ba378056e4cac1f34625}
-      \strng{nameafullhashraw}{39c4f1573265ba378056e4cac1f34625}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Historical Engineering}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{2}
-      \field{title}{Biological Mechanisms in Ancient Construction: The Role of Cattle and Horses}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{35}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{pages}{123\bibrangedash 134}
-      \range{pages}{12}
-      \keyw{smith2020biological}
-    \endentry
-    \entry{chen2019mechanics}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=685d97480ebafb5a158e7c3dfdcb69a8}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Li},
-           giveni={L\bibinitperiod}}}%
-      }
-      \name{namea}{1}{}{%
-        {{hash=685d97480ebafb5a158e7c3dfdcb69a8}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Li},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Civil Engineering Press}%
-      }
-      \strng{namehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{fullhash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{fullhashraw}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{bibnamehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{authorbibnamehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{authornamehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{authorfullhash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{authorfullhashraw}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{nameabibnamehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{nameanamehash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{nameafullhash}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \strng{nameafullhashraw}{685d97480ebafb5a158e7c3dfdcb69a8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{title}{Mechanics of Animal Power in Civil Engineering}
-      \field{usera}{M}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \keyw{chen2019mechanics}
-    \endentry
-    \entry{williams2018ethics}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=ab8e9cdec237082a76dc691175185bf6}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{namea}{1}{}{%
-        {{hash=ab8e9cdec237082a76dc691175185bf6}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Ethical Engineering Association}%
-      }
-      \strng{namehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{fullhash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{fullhashraw}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{bibnamehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{authorbibnamehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{authornamehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{authorfullhash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{authorfullhashraw}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{nameabibnamehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{nameanamehash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{nameafullhash}{ab8e9cdec237082a76dc691175185bf6}
-      \strng{nameafullhashraw}{ab8e9cdec237082a76dc691175185bf6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Ethics in Engineering}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{3}
-      \field{title}{Engineering Ethics in the Use of Animal Labor}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{42}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{210\bibrangedash 220}
-      \range{pages}{11}
-      \keyw{williams2018ethics}
-    \endentry
     \entry{kim2021sustainability}{article}{}{}
       \name{author}{2}{}{%
         {{hash=e29a9ad800ebc95d571b21028d15b0d4}{%
@@ -226,8 +62,8 @@
       \strng{nameanamehash}{7cfc71985e7cedb9cb61558cee92e7d6}
       \strng{nameafullhash}{e9c5cfedd532f28bd31c67d019e32d2f}
       \strng{nameafullhashraw}{e9c5cfedd532f28bd31c67d019e32d2f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Sustainable Construction}
@@ -245,69 +81,6 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
       \keyw{kim2021sustainability}
-    \endentry
-    \entry{brown2022casestudies}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=165a5da0696c74de50a07a9ec22071a4}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=165a5da0696c74de50a07a9ec22071a4}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Case Study Publishing}%
-      }
-      \strng{namehash}{f961e9ff7d5cea4e0e8075d870f2feab}
-      \strng{fullhash}{26e752553315e4131a747860ba0074bd}
-      \strng{fullhashraw}{26e752553315e4131a747860ba0074bd}
-      \strng{bibnamehash}{26e752553315e4131a747860ba0074bd}
-      \strng{authorbibnamehash}{26e752553315e4131a747860ba0074bd}
-      \strng{authornamehash}{f961e9ff7d5cea4e0e8075d870f2feab}
-      \strng{authorfullhash}{26e752553315e4131a747860ba0074bd}
-      \strng{authorfullhashraw}{26e752553315e4131a747860ba0074bd}
-      \strng{nameabibnamehash}{26e752553315e4131a747860ba0074bd}
-      \strng{nameanamehash}{f961e9ff7d5cea4e0e8075d870f2feab}
-      \strng{nameafullhash}{26e752553315e4131a747860ba0074bd}
-      \strng{nameafullhashraw}{26e752553315e4131a747860ba0074bd}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Civil Engineering Case Studies}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{4}
-      \field{title}{Case Studies on the Efficiency of Cattle and Horse Power in Contemporary Construction}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{8}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{pages}{345\bibrangedash 356}
-      \range{pages}{12}
-      \keyw{brown2022casestudies}
     \endentry
     \entry{chen2023experiments}{article}{}{}
       \name{author}{2}{}{%
@@ -352,8 +125,8 @@
       \strng{nameanamehash}{d0145314fb6db74c3c705bc6b2c8f435}
       \strng{nameafullhash}{47cd1796761a480a2957ffd3ccf39cc5}
       \strng{nameafullhashraw}{47cd1796761a480a2957ffd3ccf39cc5}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Structural Mechanics}
@@ -371,6 +144,69 @@
       \field{pages}{88\bibrangedash 97}
       \range{pages}{10}
       \keyw{chen2023experiments}
+    \endentry
+    \entry{brown2022casestudies}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=165a5da0696c74de50a07a9ec22071a4}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=165a5da0696c74de50a07a9ec22071a4}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Case Study Publishing}%
+      }
+      \strng{namehash}{f961e9ff7d5cea4e0e8075d870f2feab}
+      \strng{fullhash}{26e752553315e4131a747860ba0074bd}
+      \strng{fullhashraw}{26e752553315e4131a747860ba0074bd}
+      \strng{bibnamehash}{26e752553315e4131a747860ba0074bd}
+      \strng{authorbibnamehash}{26e752553315e4131a747860ba0074bd}
+      \strng{authornamehash}{f961e9ff7d5cea4e0e8075d870f2feab}
+      \strng{authorfullhash}{26e752553315e4131a747860ba0074bd}
+      \strng{authorfullhashraw}{26e752553315e4131a747860ba0074bd}
+      \strng{nameabibnamehash}{26e752553315e4131a747860ba0074bd}
+      \strng{nameanamehash}{f961e9ff7d5cea4e0e8075d870f2feab}
+      \strng{nameafullhash}{26e752553315e4131a747860ba0074bd}
+      \strng{nameafullhashraw}{26e752553315e4131a747860ba0074bd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Civil Engineering Case Studies}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{4}
+      \field{title}{Case Studies on the Efficiency of Cattle and Horse Power in Contemporary Construction}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 356}
+      \range{pages}{12}
+      \keyw{brown2022casestudies}
     \endentry
   \enddatalist
 \endrefsection
