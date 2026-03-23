@@ -1,7 +1,32 @@
 \documentclass{xduugthesis}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{float}
+\usepackage{unicode-math}
+\setmathfont{XITS Math}
+\usepackage{titlesec}
+\titleformat{\section}[block]
+  {\bfseries\fontsize{14pt}{16.8pt}\selectfont\centering}
+  {\thesection}{1em}{}
+\titleformat{\subsection}[block]
+  {\bfseries\fontsize{12pt}{14.4pt}\selectfont}
+  {\thesubsection}
+  {lem}
+  {}
+
+\usepackage{amssymb,amsmath,amsfonts}      % 提供 \mathbb 命令
 \usepackage{booktabs}
-\usepackage{amssymb}      % 提供 \mathbb 命令
+\usepackage{array}
+\usepackage{graphicx}
 \xdusetup{
+    style = {
+    cjk-font = fandol,
+    math-font = xits,
+    latin-font = tcc,
+    unicode-math = {},
+    font-type = font,
+    font-path = fonts
+  },
   info = {
     title = {轻量化密态区块链数据库\\可验证查询方法设计与实现},
     author = {杨芸茜},
@@ -15,7 +40,8 @@
     abstract* = {chapters/abstract_en.tex},
     keywords = {牛马动力学,工程创新,工程伦理,施工方法,工程质量控制},
     keywords* = {Animal Dynamics, Engineering Innovation, Engineering Ethics, Construction Methods, Engineering Quality Control},
-    acknowledgements = {chapters/acknowledge.tex}
+    acknowledgements = {chapters/acknowledge.tex},
+    bib-resource = reference.bib
     }
   }
 \begin{document}
@@ -31,6 +57,8 @@
 \include{chapters/preliminaries}
 \include{chapters/system_model}
 \include{chapters/system_init}
+\include{chapters/index_buid}
+\include{chapters/cipher_query_verify}
 \include{chapters/conclusion}
 
 
