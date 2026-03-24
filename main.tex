@@ -11,10 +11,15 @@
 \titleformat{\subsection}[block]
   {\bfseries\fontsize{12pt}{14.4pt}\selectfont}
   {\thesubsection}
-  {lem}
+  {1em}
   {}
 
-\usepackage{amssymb,amsmath,amsfonts}      % 提供 \mathbb 命令
+\usepackage{amsthm}   % 定理类环境
+\usepackage{amsmath}  % 数学符号
+\usepackage{amssymb}  % 可选
+
+% 定义 definition 环境（带编号）
+\newtheorem{definition}{定义}    % 提供 \mathbb 命令
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{graphicx}
